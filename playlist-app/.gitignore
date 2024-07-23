@@ -1,0 +1,17 @@
+# Ignore all files with the .log extension
+*.log
+
+# Ignore the .env file (often used for environment variables)
+.env
+
+# Ignore all files in the node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore all files in the dist directory (often used for build outputs)
+dist/
+
+# Ignore all .DS_Store files (macOS-specific metadata files)
+.DS_Store
+
+# Ignore all files in the __pycache__ directory (Python-specific)
+__pycache__/
